@@ -10,14 +10,17 @@ scrapeIt("https://www.sas.am/", {
         listItem: ".table"
       , data: {
             // Get the article date and convert it into a Date object
-            createdAt: {
-                selector: ".copy"
-            }
-        , title: "h3.td-overally"
-            // Get the content
-          , content: {
-                selector: ".td-overally"
-              , how: "html"
+        //     createdAt: {
+        //         selector: ".copy"
+        //     }
+        // , title: "h3.td-overally"
+        //     // Get the content
+        //   , content: {
+        //         selector: ".td-overally"
+        //       , how: "html"
+        //     }
+            content: {
+                selector
             }
         }
     }
