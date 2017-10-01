@@ -1,10 +1,11 @@
 google.charts.load('45', { packages: ['corechart', 'table'] });
 
-google.charts.setOnLoadCallback(drawPieChart);
+//google.charts.setOnLoadCallback(drawPieChart);
 google.charts.setOnLoadCallback(drawColumnChart);
 google.charts.setOnLoadCallback(drawTable);
+google.charts.setOnLoadCallback(drawChart);
 
-function drawPieChart() {
+function drawChart() {
 $.ajax({
     url: "/restaurants",
     dataType: "json",
@@ -14,25 +15,23 @@ $.ajax({
     data.addColumn('number', 'rating');
    
     for (var i = 0; i < jsonData.length; i++) {
-        if(parseInt(jsonData[i].rating)>90 && parseInt(jsonData[i].rating)<100){
+        if(parseInt(jsonData[i].rating)>0 && parseInt(jsonData[i].rating)<=100){
             data.addRow([
                 jsonData[i].title,
                 parseInt(jsonData[i].rating),
             ]);
-        }
+       }
     }
     
     var options = {
-        legend: 'left',
-        title: 'Top-14',
-        is3D: false,
-        width: '100%',
-        height: '100%'
-    };
+          title: 'Liya',
+          colors: ['#e91e63'],
+          legend: { position: 'none' },
+        };
     //console.log(data.toJSON());
     // Instantiate and draw the chart.
-    var chart = new google.visualization.PieChart(document.getElementById('chart_div0'));
-    chart.draw(data, options);
+    var chart = new google.visualization.Histogram(document.getElementById('chart_div0'));
+        chart.draw(data, options);
 }
 });
 };
@@ -47,17 +46,18 @@ function drawColumnChart() {
             //data.addColumn('string', 'hours');
 
             for (var i = 0; i < jsonData.length; i++) {
-                if(parseInt(jsonData[i].rating)>=90 && parseInt(jsonData[i].rating)<=100)
+                if(parseInt(jsonData[i].rating)>90 && parseInt(jsonData[i].rating)<100){
                 data.addRow([
                     jsonData[i].title,
                     parseInt(jsonData[i].rating),
                    // jsonData[i].hours,
                 ]);
+                }
             }
 
     var options = {
-        title: '...',
-        hAxis: { title: 'Name', titleTextStyle: { color: 'red' } }
+        title: '',
+        hAxis: { title: '', titleTextStyle: { color: 'red' } }
     };
 
     var chart = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
