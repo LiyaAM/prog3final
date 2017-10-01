@@ -9,13 +9,16 @@ scrapeIt("https://www.menu.am/am/home.html", {
     restaurants: {
         listItem: ".item", //"table.table tbody"
         data: {
-            title: ".list-title",
+            title: ".list-title a",
             menu: ".restType",
             url: {
                 selector: ".list-logo a",
                 attr: "href",
+                convert: function(x){
+                    return "https://www.menu.am" + x;
+                }
             },
-            reyting: {
+            rating: {
                 selector: ".list-rate div>.fl",
                 attr: "style",
                 convert: function (x) { // https://jsfiddle.net/g6qf4qsy/
@@ -31,6 +34,14 @@ scrapeIt("https://www.menu.am/am/home.html", {
             },
             hours: {
                 selector: ".list-time",
+                convert: function (x) { // https://jsfiddle.net/g6qf4qsy/
+                    if(x.length != 6){
+                        return x.substr(10,13);
+                    }
+                    else{
+                       return x.substr(-6,2);
+                    }
+                }
             }
         }
     }
