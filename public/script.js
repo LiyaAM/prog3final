@@ -1,9 +1,10 @@
-google.charts.load('45', { packages: ['corechart', 'table'] });
+google.charts.load('45', { packages: ['corechart', 'table', 'timeline'] });
 
 //google.charts.setOnLoadCallback(drawPieChart);
 google.charts.setOnLoadCallback(drawColumnChart);
 google.charts.setOnLoadCallback(drawTable);
 google.charts.setOnLoadCallback(drawChart);
+
 
 function drawChart() {
 $.ajax({
@@ -42,25 +43,32 @@ function drawColumnChart() {
         success: function (jsonData) {
             var data = new google.visualization.DataTable();
             data.addColumn('string', 'title');
-            data.addColumn('number', 'rating');
-            //data.addColumn('string', 'hours');
+            data.addColumn('date', 'hours');
+            data.addColumn('date', 'hours');
 
             for (var i = 0; i < jsonData.length; i++) {
-                if(parseInt(jsonData[i].rating)>90 && parseInt(jsonData[i].rating)<100){
+               if(jsonData[i].hours != "24"){
+                   if( parseInt(jsonData[i].hours[0]) > parseInt(jsonData[i].hours[2]) ){
+                       var a = new Date(2014, 10, 16, parseInt(jsonData[i].hours[2]), (jsonData[i].hours[3]));
+                    }
+                    else{
+                        var a = new Date(2014, 10, 15, parseInt(jsonData[i].hours[2]), (jsonData[i].hours[3]));
+                    }
                 data.addRow([
                     jsonData[i].title,
-                    parseInt(jsonData[i].rating),
+                    new Date(2014, 10, 15, parseInt(jsonData[i].hours[0]), (jsonData[i].hours[1])),
+                    new Date(a)
+                    
                    // jsonData[i].hours,
                 ]);
                 }
             }
 
     var options = {
-        title: '',
-        hAxis: { title: '', titleTextStyle: { color: 'red' } }
-    };
+        height: 450,
+      };
 
-    var chart = new google.visualization.ColumnChart(document.getElementById('chart_div1'));
+    var chart = new google.visualization.Timeline(document.getElementById('chart_div1'));
     chart.draw(data, options);
 }
     });
@@ -76,7 +84,7 @@ function drawTable() {
             data.addColumn('string', 'menu');
             data.addColumn('string', 'url');
             data.addColumn('string', 'rating');
-            data.addColumn('string', 'hours');
+            //data.addColumn('arr', 'hours');
 
             for (var i = 0; i < jsonData.length; i++) {
                 data.addRow([
@@ -84,7 +92,7 @@ function drawTable() {
                     jsonData[i].menu,
                     jsonData[i].url,
                     jsonData[i].rating,
-                    jsonData[i].hours,
+                   // jsonData[i].hours,
                 ]);
             }
 
@@ -104,7 +112,6 @@ function drawTable() {
 }
 
 $(window).resize(function () {
-    drawPieChart();
     drawColumnChart();
     drawAreaChart();
     drawRegionsMap();

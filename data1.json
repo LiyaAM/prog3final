@@ -4,21 +4,43 @@
       "title": "Օստ Ֆուդ Կորտ",
       "menu": "Լահմաջո, Շաուրմա, Պիցցա",
       "url": "https://www.menu.am/restaurant/ost-bistro-mashtots.html",
-      "rating": "85.4",
-      "hours": "11:00 - 22:30"
+      "rating": "86.6",
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Բլեք Անգուս",
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ, Պիցցա",
       "url": "https://www.menu.am/restaurant/black-angus-mashtots.html",
-      "rating": "98.4",
-      "hours": "08:00 - 05:00"
+      "rating": "98",
+      "hours": [
+        "08",
+        "00",
+        "05",
+        "00"
+      ]
+    },
+    {
+      "title": "Երևանի շաուրմա",
+      "menu": "Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Կարկանդակ, Շաուրմա",
+      "url": "https://www.menu.am/restaurant/yerevani-shaurma.html",
+      "rating": "83.6",
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Գենացվալե Պանդոկ",
       "menu": "Հավի գրիլ, Վրացական",
       "url": "https://www.menu.am/restaurant/genacvale-pandok-paronyan.html",
-      "rating": "90.8",
+      "rating": "88.8",
       "hours": "24"
     },
     {
@@ -26,104 +48,157 @@
       "menu": "Հայկական",
       "url": "https://www.menu.am/restaurant/pandok-yerevan.html",
       "rating": "89.6",
-      "hours": "09:30 - 23:00"
+      "hours": [
+        "09",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Կարաս ազգային սննդի ցանց",
       "menu": "Հավի գրիլ, Հայկական",
       "url": "https://www.menu.am/restaurant/karas-vardanants.html",
-      "rating": "87.2",
+      "rating": "87.4",
       "hours": "24"
     },
     {
       "title": "Մր. Գիրոս",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Հունական, Շաուրմա",
       "url": "https://www.menu.am/restaurant/mr-gyros-komitas.html",
-      "rating": "95",
-      "hours": "10:00 - 04:00"
-    },
-    {
-      "title": "Երևանի շաուրմա",
-      "menu": "Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Կարկանդակ, Շաուրմա",
-      "url": "https://www.menu.am/restaurant/yerevani-shaurma.html",
-      "rating": "93.4",
-      "hours": "10:00 - 23:00"
+      "rating": "94.6",
+      "hours": [
+        "10",
+        "00",
+        "04",
+        "00"
+      ]
     },
     {
       "title": "Փաբ 37",
       "menu": "Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Եվրոպական, Լանչ",
       "url": "https://www.menu.am/restaurant/pub_37.html",
       "rating": "0",
-      "hours": "12:00 - 01:00"
+      "hours": [
+        "12",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Բելլա Իտալիա",
-      "menu": "Լավ առաջարկ, Եվրոպական, Իտալական, Լանչ, Պաստա, Պիցցա",
+      "menu": "Եվրոպական, Իտալական, Լանչ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/bella-italia.html",
-      "rating": "70.8",
-      "hours": "10:00 - 22:00"
+      "rating": "72",
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Պիցցա Հատ",
       "menu": "Ամերիկյան, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/pizza-hut.html",
       "rating": "91.8",
-      "hours": "11:30 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Լիբանանյան շաուրմա",
       "menu": "Լիբանանյան, Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/lebanon-shawarma.html",
       "rating": "86",
-      "hours": "09:30 - 03:00"
+      "hours": [
+        "10",
+        "00",
+        "05",
+        "00"
+      ]
     },
     {
       "title": "Վոկ ընդ Ռոլ",
       "menu": "Ասիական, Ֆրեշ, Պաղպաղակ, Թայլանդական, Պաստա, Պիցցա, Սուշի",
       "url": "https://www.menu.am/restaurant/wok-and-roll.html",
       "rating": "85.8",
-      "hours": "11:00 - 23:15"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "15"
+      ]
     },
     {
       "title": "Լա Քուչինա",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/la-cucina.html",
       "rating": "86.6",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Սիննաբոն",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/cinnabon.html",
       "rating": "90",
-      "hours": "09:30 - 00:00"
+      "hours": [
+        "09",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Քրամբս",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Հացաբուլկեղեն, Ֆրեշ, Պաղպաղակ, Նախաճաշ",
       "url": "https://www.menu.am/restaurant/crumbs-argishti.html",
       "rating": "55",
-      "hours": "08:00 - 00:30"
+      "hours": [
+        "08",
+        "00",
+        "00",
+        "30"
+      ]
     },
     {
       "title": "Ծիրանի",
       "menu": "Խորոված, քյաբաբ, Հայկական",
       "url": "https://www.menu.am/restaurant/tsirani.html",
       "rating": "71.6",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Վասաբի",
       "menu": "Լավ առաջարկ, Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/wasabi.html",
       "rating": "70",
-      "hours": "11:00 - 03:00"
+      "hours": [
+        "11",
+        "00",
+        "03",
+        "00"
+      ]
     },
     {
       "title": "Կովկաս Պանդոկ",
       "menu": "Արցախյան, Լահմաջո, Խորոված, քյաբաբ, Հայկական, Նախաճաշ, Վրացական",
       "url": "https://www.menu.am/restaurant/kovkas.html",
-      "rating": "77",
+      "rating": "79",
       "hours": "24"
     },
     {
@@ -131,7 +206,12 @@
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/kfc-mashtots-avenue.html",
       "rating": "88.8",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Grill.am",
@@ -145,158 +225,263 @@
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/classic-burger.html",
       "rating": "97.2",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Պեկին",
       "menu": "Չինական, Լավ առաջարկ, Ասիական, Լանչ, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/beijing.html",
       "rating": "90",
-      "hours": "11:00 - 23:15"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "15"
+      ]
     },
     {
       "title": "Զեյթունա",
       "menu": "Արևելյան, Սիրիական",
       "url": "https://www.menu.am/restaurant/zeituna.html",
       "rating": "0",
-      "hours": "11:45 - 23:00"
+      "hours": [
+        "11",
+        "45",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Սաբթայթլ",
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/subtitle.html",
       "rating": "98.8",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "ԱԿՕ Սուշի",
       "menu": "Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/ako-sushi.html",
-      "rating": "81.6",
+      "rating": "86.2",
       "hours": "24"
+    },
+    {
+      "title": "Ֆուրշետ Բուֆետ",
+      "menu": "Հոթ Դոգ, Քաղցրավենիք, Բուրգեր և Սենդվիչ, Լանչ, Կարկանդակ, Նախաճաշ, Պիցցա",
+      "url": "https://www.menu.am/restaurant/fourchette-buffet.html",
+      "rating": "0",
+      "hours": [
+        "09",
+        "00",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Ամելի Տորթեր",
+      "menu": "Քաղցրավենիք",
+      "url": "https://www.menu.am/restaurant/amelie-cakes.html",
+      "rating": "0",
+      "hours": [
+        "09",
+        "00",
+        "17",
+        "00"
+      ]
     },
     {
       "title": "Բիգ ընդ Թեյսթի",
       "menu": "Բուրգեր և Սենդվիչ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/big-and-tasty.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Նյու ՏԱՕ",
       "menu": "Չինական, Լավ առաջարկ, Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/new-tao.html",
       "rating": "71.2",
-      "hours": "12:00 - 23:30"
+      "hours": [
+        "12",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Դոստոևսկի",
       "menu": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Նախաճաշ, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/dostoyevsky.html",
       "rating": "0",
-      "hours": "24"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Թեմուրնոց",
       "menu": "Եվրոպական, Կովկասյան",
       "url": "https://www.menu.am/restaurant/temurnots.html",
-      "rating": "60",
-      "hours": "09:00 - 23:30"
+      "rating": "80",
+      "hours": [
+        "09",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Կինոլոգիական Միություն",
       "menu": "Ընտանի կենդանիների կերեր",
       "url": "https://www.menu.am/restaurant/cynological-union.html",
       "rating": "0",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Զեյթունի Շաուրմա",
       "menu": "Բուրգեր և Սենդվիչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/zeytuni-shawarma.html",
       "rating": "0",
-      "hours": "10:30 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Նարինե Ջելլի Տորթ",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/narine-jelly.html",
       "rating": "0",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Եգիպտացորեն",
       "menu": "Ասիական",
       "url": "https://www.menu.am/restaurant/corn.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Քլաբ Բուրգեր",
       "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/club-burger.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
-    },
-    {
-      "title": "Գրիլ էնդ Կո",
-      "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
-      "url": "https://www.menu.am/restaurant/grill-and-co.html",
-      "rating": "0",
-      "hours": "10:00 - 22:00"
-    },
-    {
-      "title": "Մամա Միա",
-      "menu": "Լավ առաջարկ, Եվրոպական, Իտալական, Պիցցա",
-      "url": "https://www.menu.am/restaurant/mama-mia-aleq-manukyan.html",
-      "rating": "70",
-      "hours": "10:00 - 01:30"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Կառմա",
       "menu": "Ասիական, Հնդկական",
       "url": "https://www.menu.am/restaurant/karma.html",
       "rating": "80",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ինդիան Մեհակ Ռեստորան",
       "menu": "Ասիական, Հնդկական",
       "url": "https://www.menu.am/restaurant/indian-mehak-restaurant.html",
       "rating": "55",
-      "hours": "13:00 - 23:00"
+      "hours": [
+        "13",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Դերյան Քեբաբ Ռեստորան",
       "menu": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/derian-kebab.html",
       "rating": "66.6",
-      "hours": "12:30 - 22:00"
+      "hours": [
+        "12",
+        "30",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "ՓիթՍտոպ Բուրգեր",
-      "menu": "Լավ առաջարկ, Ամերիկյան, Բուրգեր և Սենդվիչ, Շաուրմա",
+      "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/pitstop-burger.html",
       "rating": "85",
-      "hours": "11:00 - 04:00"
+      "hours": [
+        "11",
+        "00",
+        "04",
+        "00"
+      ]
     },
     {
       "title": "Լաբիրինթ",
       "menu": "Խեցգետին, Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Խորոված, քյաբաբ, Կարկանդակ, Հայկական, Պիցցա",
       "url": "https://www.menu.am/restaurant/labeerint.html",
       "rating": "0",
-      "hours": "11:30 - 02:30"
+      "hours": [
+        "11",
+        "30",
+        "02",
+        "30"
+      ]
     },
     {
       "title": "Սասնատուն Պանդոկ",
-      "menu": "Խեցգետին, Արարատյան, Լավ առաջարկ, Լահմաջո, Հայկական, Վրացական, Գարեջուր, Խեցգետին",
+      "menu": "Արարատյան, Խեցգետին, Լավ առաջարկ, Լահմաջո, Հայկական, Վրացական, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/sasnatun-tavern.html",
-      "rating": "15",
-      "hours": "09:40 - 22:40"
+      "rating": "40",
+      "hours": [
+        "09",
+        "40",
+        "22",
+        "40"
+      ]
     },
     {
       "title": "Ալֆա Ֆարմ",
-      "menu": "Ալֆա Ֆարմ, Մանկական սնունդ և տակդիր",
+      "menu": "Մանկական սնունդ և տակդիր, Ալֆա Ֆարմ",
       "url": "https://www.menu.am/restaurant/alfa-pharm.html",
       "rating": "90",
       "hours": "24"
@@ -306,7 +491,12 @@
       "menu": "Ընտանի կենդանիների կերեր",
       "url": "https://www.menu.am/restaurant/haf-haf.html",
       "rating": "95",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Մոն Ամի",
@@ -320,34 +510,42 @@
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/in-vino.html",
       "rating": "100",
-      "hours": "11:00 - 00:00"
-    },
-    {
-      "title": "Արիա",
-      "menu": "Արևելյան, Իրանական/Պարսկական, Խորոված, քյաբաբ, Պաստա, Սթեյք",
-      "url": "https://www.menu.am/restaurant/arya.html",
-      "rating": "80",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Կոֆիսթորի",
       "menu": "Քաղցրավենիք, Եվրոպական, Սուրճ և Թեյ, Նախաճաշ, Պաստա",
       "url": "https://www.menu.am/restaurant/coffeestory.html",
       "rating": "0",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Սուշի Մուշի",
       "menu": "Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/sushi-mushi.html",
       "rating": "93.4",
-      "hours": "11:30 - 23:30"
+      "hours": [
+        "11",
+        "30",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Դոկա Պիցցա",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Նախաճաշ, Պիցցա",
       "url": "https://www.menu.am/restaurant/doka-pizza.html",
-      "rating": "72.8",
+      "rating": "76.2",
       "hours": "24"
     },
     {
@@ -355,161 +553,264 @@
       "menu": "Մեքսիկական, Շաուրմա",
       "url": "https://www.menu.am/restaurant/jalapeno.html",
       "rating": "0",
-      "hours": "11:00 - 21:00"
+      "hours": [
+        "11",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Մարտիրոս",
       "menu": "Ասիական, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/martiros.html",
       "rating": "100",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Թայմ Թու Իթ",
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/time-to-eat.html",
       "rating": "90",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Պեկին Կասկադ",
       "menu": "Չինական, Լավ առաջարկ, Ասիական",
       "url": "https://www.menu.am/restaurant/beijing-cascade.html",
       "rating": "30",
-      "hours": "11:00 - 23:45"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "45"
+      ]
     },
     {
       "title": "Աբու Հակոբ",
       "menu": "Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/abu-hagop-pushkin.html",
-      "rating": "78",
-      "hours": "12:00 - 23:30"
+      "rating": "78.4",
+      "hours": [
+        "12",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Պիցցա Դի Ռոմա",
       "menu": "Եվրոպական, Իտալական, Խորոված, քյաբաբ, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/pizza-di-roma.html",
       "rating": "86.6",
-      "hours": "10:30 - 01:00"
-    },
-    {
-      "title": "Ջանո",
-      "menu": "Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ",
-      "url": "https://www.menu.am/restaurant/jano.html",
-      "rating": "94.4",
-      "hours": ""
+      "hours": [
+        "10",
+        "30",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Ամերիկանո Պիցցա",
       "menu": "Պիցցա",
       "url": "https://www.menu.am/restaurant/americano-pizza.html",
       "rating": "90",
-      "hours": "11:00 - 01:00"
+      "hours": [
+        "11",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Ժակո",
       "menu": "Լավ առաջարկ, Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/jaco.html",
       "rating": "74",
-      "hours": "11:00 - 23:30"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Թաուկ",
       "menu": "Լավ առաջարկ, Արևելյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/tawouk.html",
       "rating": "100",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Առողջ Սնունդ",
       "menu": "Էկո և Օրգանական սնունդ",
       "url": "https://www.menu.am/restaurant/healthy-food.html",
       "rating": "0",
-      "hours": "11:00 - 19:00"
+      "hours": [
+        "11",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Աֆրիկյանների Ռեստորան",
       "menu": "Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հայկական, Շաուրմա, Պիցցա",
       "url": "https://www.menu.am/restaurant/afrikyanneri-restaurant.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Թուրինգյան Բրաթվուրստ",
       "menu": "Հոթ Դոգ, Գերմանական, Բուրգեր և Սենդվիչ, Շաուրմա, Սթեյք",
       "url": "https://www.menu.am/restaurant/thuringer-bratwurst.html",
       "rating": "0",
-      "hours": "10:30 - 01:50"
+      "hours": [
+        "10",
+        "30",
+        "01",
+        "50"
+      ]
     },
     {
       "title": "Բուլդոգ",
       "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/bulldog.html",
       "rating": "100",
-      "hours": "11:00 - 23:50"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "50"
+      ]
     },
     {
       "title": "Չարենցի 28",
       "menu": "Արևելյան, Եվրոպական, Պաստա, Միջերկրածովյան",
       "url": "https://www.menu.am/restaurant/charentsi_28.html",
       "rating": "100",
-      "hours": "12:00 - 23:00"
+      "hours": [
+        "12",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Մալօկկօ Կաֆե",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/malocco-cafe-tamanyan.html",
       "rating": "93.4",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մալօկկօ թխվածք և ավելին",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/malocco-pastry-and-more.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Սամուրայ",
       "menu": "Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/samurai-patver.html",
       "rating": "0",
-      "hours": "12:00 - 23:45"
+      "hours": [
+        "12",
+        "00",
+        "23",
+        "45"
+      ]
     },
     {
       "title": "Տանթունի",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Շաուրմա",
       "url": "https://www.menu.am/restaurant/tantuni.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Թոմաս Սմոքի Րիբս",
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ, Լանչ, Սթեյք, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/tomas-smokey-ribs.html",
       "rating": "100",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Կակտուս",
       "menu": "Մեքսիկական, Սթեյք",
       "url": "https://www.menu.am/restaurant/cactus.html",
       "rating": "70",
-      "hours": "10:30 - 00:00"
+      "hours": [
+        "10",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Լագոնիտ",
       "menu": "Արևելյան",
       "url": "https://www.menu.am/restaurant/lagonid.html",
       "rating": "100",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Արցախի բարիքներ",
       "menu": "Ըմպելիքներ և Խորտիկներ, Հայկական",
       "url": "https://www.menu.am/restaurant/artsakhi-bariqner.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Արևելյան Խոհանոց",
@@ -520,150 +821,231 @@
     },
     {
       "title": "Պաուլաներ",
-      "menu": "Խեցգետին, Գերմանական, Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
+      "menu": "Գերմանական, Խեցգետին, Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
       "url": "https://www.menu.am/restaurant/paulaner.html",
       "rating": "100",
-      "hours": "11:00 - 23:45"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "45"
+      ]
     },
     {
       "title": "Լավ Թեյ",
       "menu": "Արտադրված է Հայաստանում, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/love-tea.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "30",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Գրանդ Փըթեյթո",
       "menu": "Եվրոպական",
       "url": "https://www.menu.am/restaurant/grand-potato.html",
       "rating": "100",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Արշավներ Ակումբ սրճարան և փաբ",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ",
       "url": "https://www.menu.am/restaurant/arshavner-club-cafe-and-pub.html",
       "rating": "0",
-      "hours": "12:00 - 02:00"
+      "hours": [
+        "12",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Արմադ",
       "menu": "",
       "url": "https://www.menu.am/restaurant/armad.html",
       "rating": "0",
-      "hours": "08:00 - 03:00"
+      "hours": [
+        "08",
+        "00",
+        "03",
+        "00"
+      ]
     },
     {
       "title": "Իմ Ամրոցը",
       "menu": "Խորոված, քյաբաբ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/my-castle.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Թուֆենկյան Խարբերդ Ռեստորան",
       "menu": "Արևելյան, Լահմաջո, Հայկական, Պաստա",
       "url": "https://www.menu.am/restaurant/tufenkian-kharpert-restaurant.html",
       "rating": "40",
-      "hours": "07:30 - 22:30"
-    },
-    {
-      "title": "Արաբեսք",
-      "menu": "Արևելյան",
-      "url": "https://www.menu.am/restaurant/arabesque.html",
-      "rating": "100",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "07",
+        "30",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Կարլոֆֆ Չեխական ռեստորան-գարեջրատուն",
       "menu": "Գարեջրատուն և Փաբ, Եվրոպական, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/karloff-czech-brewery.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
-    },
-    {
-      "title": "Նավավար",
-      "menu": "Ձուկ և ծովամթերք, Եվրոպական",
-      "url": "https://www.menu.am/restaurant/navavar.html",
-      "rating": "20",
-      "hours": "17:00 - 23:30"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Պռոշյանի Կոնյակի Գործարան",
       "menu": "Գաստրոնոմ, Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/proshyan-brandy-factory.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Փարթիտտո",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/partytto.html",
       "rating": "98",
-      "hours": "09:30 - 20:00"
+      "hours": [
+        "09",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Էյֆել",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/eiffel-gift-cards.html",
       "rating": "0",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Սվոչ",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/swatch-gift-cards.html",
       "rating": "0",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Պանացեա Գաստրոնոմ Բուտիկ",
       "menu": "Գաստրոնոմ, Ըմպելիքներ և Խորտիկներ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/panatsea.html",
       "rating": "100",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "30"
+      ]
     },
     {
       "title": "Ինորի",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/inori-gift-card.html",
       "rating": "0",
-      "hours": "11:00 - 20:30"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "30"
+      ]
     },
     {
       "title": "Գրին Դեյ",
       "menu": "Քաղցրավենիք, Գաստրոնոմ, Էկո և Օրգանական սնունդ, Ըմպելիքներ և Խորտիկներ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/green-day.html",
       "rating": "0",
-      "hours": "10:00 - 18:00"
+      "hours": [
+        "10",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Բուկինիստ Գրախանութների Ցանց",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/bookinist-bookstores-chain-gift-card.html",
       "rating": "0",
-      "hours": "10:00 - 19:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Չոքլիթ Սթորի",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/chocolate-story.html",
       "rating": "0",
-      "hours": "13:00 - 17:00"
+      "hours": [
+        "13",
+        "00",
+        "17",
+        "00"
+      ]
     },
     {
       "title": "Արմ Հուկա",
       "menu": "Նարգիլե և Սիգար",
       "url": "https://www.menu.am/restaurant/armhookah.html",
       "rating": "100",
-      "hours": "11:00 - 04:00"
+      "hours": [
+        "11",
+        "00",
+        "04",
+        "00"
+      ]
     },
     {
       "title": "Բոչկա",
       "menu": "Լահմաջո, Խորոված, քյաբաբ, Հայկական, Սթեյք",
       "url": "https://www.menu.am/restaurant/bochka-restaurant.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մագա Ծաղկի Սրահ",
@@ -677,189 +1059,324 @@
       "menu": "Քաղցրավենիք, Ամերիկյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/bagel-shop.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "08",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Կրեպ Հաուս",
       "menu": "Քաղցրավենիք, Եվրոպական",
       "url": "https://www.menu.am/restaurant/crepe-house.html",
       "rating": "100",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ֆիթնես Քուք",
       "menu": "Քաղցրավենիք, Էկո և Օրգանական սնունդ",
       "url": "https://www.menu.am/restaurant/fitness-cook.html",
       "rating": "100",
-      "hours": "11:00 - 18:00"
+      "hours": [
+        "11",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Լիբանան Ռեստորան",
       "menu": "Լիբանանյան, Արևելյան, Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Միջերկրածովյան",
       "url": "https://www.menu.am/restaurant/lebanon-restaurant.html",
       "rating": "0",
-      "hours": "10:00 - 23:30"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Սվարովսկի",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/swarovski-gift-card.html",
       "rating": "0",
-      "hours": "11:00 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Պնդուկ",
       "menu": "Գաստրոնոմ",
       "url": "https://www.menu.am/restaurant/pnduk.html",
       "rating": "0",
-      "hours": "10:30 - 23:00"
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Թոնրատուն Ոսկե Աքաղաղ",
       "menu": "Արցախյան, Լավ առաջարկ, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Լանչ, Հայկական, Շաուրմա",
       "url": "https://www.menu.am/restaurant/tonratun-voske-aqaghagh.html",
       "rating": "48.8",
-      "hours": "10:00 - 00:30"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "30"
+      ]
     },
     {
       "title": "Ա. Ս. Լանչ և Բեյքըրի",
       "menu": "Լանչ, Հայկական",
       "url": "https://www.menu.am/restaurant/a-s-lunch-and-bakery.html",
       "rating": "100",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "ԲիԷլլա",
       "menu": "Թարմ միս և մսամթերք, Կիսաֆաբրիկատներ",
       "url": "https://www.menu.am/restaurant/biella.html",
       "rating": "0",
-      "hours": "12:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Ֆորէվր",
       "menu": "Էկո և Օրգանական սնունդ, Կիսաֆաբրիկատներ",
       "url": "https://www.menu.am/restaurant/4ever.html",
       "rating": "0",
-      "hours": "10:00 - 18:00"
+      "hours": [
+        "10",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Հալալե",
       "menu": "Ձուկ և ծովամթերք, Իրանական/Պարսկական, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/halale.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Բալենի",
       "menu": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/baleni.html",
       "rating": "0",
-      "hours": "11:00 - 23:30"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Կաֆե Շամպայն",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/cafe-champagne.html",
       "rating": "0",
-      "hours": "13:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Պոդվալլ",
       "menu": "Բուրգեր և Սենդվիչ, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/podwall.html",
       "rating": "0",
-      "hours": "12:00 - 23:00"
+      "hours": [
+        "12",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Քաղաքից Դուրս",
       "menu": "Ձուկ և ծովամթերք, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/countryside.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մեցցո",
       "menu": "Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/mezzo-classic-house-club.html",
       "rating": "60",
-      "hours": "12:00 - 01:00"
+      "hours": [
+        "12",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Մոզաիկ",
       "menu": "Ասիական, Եվրոպական, Նախաճաշ, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/mozaic.html",
       "rating": "0",
-      "hours": "12:00 - 00:00"
+      "hours": [
+        "12",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Հոթ Գրիլ Փաբ",
-      "menu": "Խեցգետին, Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Շաուրմա",
+      "menu": "Ձուկ և ծովամթերք, Խեցգետին, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/hot-grill-pub.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Էն Սվիթ Ստուդիո",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/n-sweet-studio.html",
       "rating": "0",
-      "hours": "11:00 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Գուրման Աղցան",
       "menu": "Եվրոպական",
       "url": "https://www.menu.am/restaurant/gurman-salad.html",
       "rating": "0",
-      "hours": "09:00 - 01:00"
+      "hours": [
+        "09",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Լինզ Էքսպրեսս",
-      "menu": "Կոնտակտային ոսպնյակներ, Մանկական սնունդ և տակդիր",
+      "menu": "Մանկական սնունդ և տակդիր, Կոնտակտային ոսպնյակներ",
       "url": "https://www.menu.am/restaurant/linz-express.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Կոնո Պիցցա",
       "menu": "Պիցցա",
       "url": "https://www.menu.am/restaurant/kono-pizza-new.html",
       "rating": "20",
-      "hours": "10:30 - 23:00"
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ֆեյսֆուդ",
       "menu": "Բուրգեր և Սենդվիչ, Պաստա",
       "url": "https://www.menu.am/restaurant/facefood.html",
       "rating": "100",
-      "hours": "11:00 - 21:00"
+      "hours": [
+        "11",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Քյավառի",
       "menu": "Բուրգեր և Սենդվիչ, Հայկական",
       "url": "https://www.menu.am/restaurant/kyavari.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Բյուրոկրատ Գրախանութ",
       "menu": "Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/bureaucrat-bookstore-gift-card.html",
       "rating": "0",
-      "hours": "12:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Գուրման",
       "menu": "Լահմաջո, Խորոված, քյաբաբ, Հավի գրիլ, Լանչ, Կարկանդակ, Հայկական, Շաուրմա, Վրացական",
       "url": "https://www.menu.am/restaurant/gurman.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Քեբաբջի Պանդոկ",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Արաբական",
       "url": "https://www.menu.am/restaurant/kebabji-pandok.html",
       "rating": "0",
-      "hours": "11:30 - 23:00"
+      "hours": [
+        "11",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Շաշլիչնիյ Դվոր",
@@ -873,126 +1390,216 @@
       "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Լանչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/lunch-house.html",
       "rating": "80",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Սիամուդս",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/siamoods-gift-card.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Եռանկյունի Տուն-Ռեստորան",
       "menu": "Խորոված, քյաբաբ, Հայկական",
       "url": "https://www.menu.am/restaurant/yerankyuni-restaurant.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Արաբիկանո",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/arapicano.html",
       "rating": "0",
-      "hours": "11:30 - 22:30"
+      "hours": [
+        "11",
+        "30",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Այ Եմ Չուռո",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/i-am-churro.html",
       "rating": "0",
-      "hours": "11:30 - 20:00"
+      "hours": [
+        "11",
+        "30",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Տրապեզա",
       "menu": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Եվրոպական, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/trapeza.html",
       "rating": "0",
-      "hours": "11:00 - 22:30"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Պանդորա",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/pandora-gift-card.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Թայմ",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/time-gift-card.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Վերոնա Գարեջրատուն",
       "menu": "Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
       "url": "https://www.menu.am/restaurant/verona-beer-house.html",
       "rating": "20",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Թումանյան Պանդոկ",
       "menu": "Խորոված, քյաբաբ, Հայկական, Վրացական, Կովկասյան",
       "url": "https://www.menu.am/restaurant/tumanyan-pandok.html",
       "rating": "10",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "",
+        null,
+        null,
+        null
+      ]
     },
     {
       "title": "ԲելլաՎիստա Իտալիա",
       "menu": "Եվրոպական, Իտալական, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/bellavista-italia.html",
       "rating": "0",
-      "hours": "11:00 - 01:00"
+      "hours": [
+        "11",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Տաք Կաթսա",
       "menu": "Լահմաջո, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/taq-katsa.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Նաթքրեքեր",
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/nutcracker.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ադամիում",
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/adamium.html",
       "rating": "0",
-      "hours": "09:00 - 20:30"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "30"
+      ]
     },
     {
       "title": "Հալեպ-Երևան",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ, Շաուրմա, Պիցցա",
       "url": "https://www.menu.am/restaurant/halep-yerevan.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Լուպին Բոբա",
       "menu": "Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/lupin-boba.html",
       "rating": "100",
-      "hours": "08:30 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "ԿինոՊարկ",
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/kinopark.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Ֆեյմըս Կալյան",
       "menu": "Նարգիլե և Սիգար",
       "url": "https://www.menu.am/restaurant/famous-kalyan-new.html",
       "rating": "0",
-      "hours": "13:00 - 02:00"
+      "hours": [
+        "13",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Ալֆա Ֆարմ Նվեր քարտ",
@@ -1006,7 +1613,12 @@
       "menu": "Լավ առաջարկ, Իտալական, Պիցցա",
       "url": "https://www.menu.am/restaurant/raffaello-restaurant-and-pizzeria.html",
       "rating": "0",
-      "hours": "12:00 - 23:00"
+      "hours": [
+        "12",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Էմիլի ծաղկի սրահ",
@@ -1020,420 +1632,852 @@
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ, Սիրիական",
       "url": "https://www.menu.am/restaurant/urfa-fast-food.html",
       "rating": "0",
-      "hours": "11:00 - 22:30"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Ֆան-Ֆան Քեյքս",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/fan-fan-cakes.html",
       "rating": "100",
-      "hours": "09:00 - 20:00"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Կոլոսոկ",
       "menu": "Հայկական",
       "url": "https://www.menu.am/restaurant/kolosok.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "18",
+        "00"
+      ]
+    },
+    {
+      "title": "Գրիլ էնդ Կո",
+      "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ",
+      "url": "https://www.menu.am/restaurant/grill-and-co.html",
+      "rating": "0",
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Գյուլբենկյան Փուռ",
       "menu": "Բուրգեր և Սենդվիչ, Հացաբուլկեղեն",
       "url": "https://www.menu.am/restaurant/gyulbenkyan-pur.html",
       "rating": "0",
-      "hours": "08:00 - 22:00"
+      "hours": [
+        "08",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Պապարացի",
       "menu": "Քաղցրավենիք, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/paparazzi-cafe.html",
       "rating": "0",
-      "hours": "10:00 - 02:00"
+      "hours": [
+        "10",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "ՊաՊա Պիցցա",
       "menu": "Պիցցա",
       "url": "https://www.menu.am/restaurant/papa-pizza.html",
       "rating": "0",
-      "hours": "09:00 - 21:00"
+      "hours": [
+        "09",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Մանե Ռեստորան-Ցուցասրահ",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Հայկական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/mane-restaurant-showroom.html",
       "rating": "0",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Լուի Շարդեն Բրեդ ընդ Բեյքրի",
       "menu": "Հացաբուլկեղեն, Ֆրանսիական",
       "url": "https://www.menu.am/restaurant/louis-charden-bread-and-bakery.html",
       "rating": "0",
-      "hours": "08:30 - 23:30"
+      "hours": [
+        "08",
+        "30",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Տարբեր",
       "menu": "Ձուկ և ծովամթերք, Եվրոպական, Պաստա",
       "url": "https://www.menu.am/restaurant/tarber.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Վանիլա",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/vanila.html",
       "rating": "0",
-      "hours": "09:00 - 21:00"
+      "hours": [
+        "09",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Բոնժուղ",
       "menu": "Բուրգեր և Սենդվիչ, Հացաբուլկեղեն",
       "url": "https://www.menu.am/restaurant/bonjour.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Նոննո Ադրիանո",
       "menu": "Պիցցա",
       "url": "https://www.menu.am/restaurant/nonno-adriano.html",
       "rating": "100",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ֆրեշ Շոփ",
       "menu": "Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/fresh-shop.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Սեյ Չիզ",
       "menu": "Գաստրոնոմ",
       "url": "https://www.menu.am/restaurant/say-cheese.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Պալերմո Պիցցա",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Պիցցա",
       "url": "https://www.menu.am/restaurant/palermo-pizza.html",
       "rating": "63.4",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Մի Մորենա",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Լանչ, Իսպանական",
       "url": "https://www.menu.am/restaurant/mi-morena.html",
       "rating": "0",
-      "hours": "18:00 - 23:30"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Ջոս",
       "menu": "Ասիական, Եվրոպական, Խորոված, քյաբաբ, Մեքսիկական, Պիցցա, Սթեյք, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/jose.html",
       "rating": "0",
-      "hours": "12:00 - 00:00"
+      "hours": [
+        "12",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Նարի դիզայն ստուդիո",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/nari-design-studio.html",
       "rating": "0",
-      "hours": "10:30 - 21:00"
+      "hours": [
+        "10",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Բեսթ Շաուրմա",
       "menu": "Բուրգեր և Սենդվիչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/best-shawarma.html",
       "rating": "0",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Ջազզվե դեսերտ",
       "menu": "Քաղցրավենիք, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/jazzve-dessert.html",
       "rating": "100",
-      "hours": "10:00 - 21:30"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "30"
+      ]
     },
     {
       "title": "Քամ Ին Երևան",
       "menu": "Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Եվրոպական, Կովկասյան",
       "url": "https://www.menu.am/restaurant/come-in-yerevan.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Հալեպ Ռեստորան",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/halep-restaurant.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Լեդի Ջի Քեյք",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/lady-g-cake.html",
       "rating": "0",
-      "hours": "10:30 - 20:00"
+      "hours": [
+        "09",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Անտառային Ձայներ",
       "menu": "Խորոված, քյաբաբ, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/antarayin-dzayner.html",
       "rating": "0",
-      "hours": "10:00 - 03:00"
+      "hours": [
+        "10",
+        "00",
+        "03",
+        "00"
+      ]
     },
     {
       "title": "Լահմաջո Հաուս",
       "menu": "Լահմաջո, Լանչ, Պիցցա",
       "url": "https://www.menu.am/restaurant/lahmajo-house.html",
       "rating": "0",
-      "hours": "10:30 - 22:00"
+      "hours": [
+        "10",
+        "30",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ֆրեշ ընդ Գո",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/fresh.html",
       "rating": "100",
-      "hours": "11:00 - 01:00"
+      "hours": [
+        "11",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Օջախ Ռեստորան",
       "menu": "Ձուկ և ծովամթերք, Խորոված, քյաբաբ, Հայկական, Կովկասյան",
       "url": "https://www.menu.am/restaurant/ojakh-restaurant.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Ղարաբաղի Ժենգյալով Հաց",
       "menu": "Արցախյան, Հայկական",
       "url": "https://www.menu.am/restaurant/gharabaghi-jengyalov-hats.html",
       "rating": "0",
-      "hours": "08:00 - 19:00"
+      "hours": [
+        "08",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Սթեյշն Բեյքրի",
       "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Լահմաջո, Շաուրմա, Պիցցա, Արաբական",
       "url": "https://www.menu.am/restaurant/station-bakery.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "30"
+      ]
     },
     {
       "title": "Օլիմպ Սպորտ Սնունդ",
       "menu": "Էկո և Օրգանական սնունդ",
       "url": "https://www.menu.am/restaurant/olimp-sport.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "13",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Բրանչ",
       "menu": "Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/branch.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "17",
+        "00"
+      ]
     },
     {
       "title": "Սմայլ",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/smile.html",
       "rating": "0",
-      "hours": "11:30 - 19:00"
+      "hours": [
+        "11",
+        "30",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Կալաբոկ Քեյք",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/kalabok-cake.html",
       "rating": "70",
-      "hours": "09:00 - 20:00"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Թի Արթ",
       "menu": "Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/tea-art.html",
       "rating": "0",
-      "hours": "10:00 - 21:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Կաֆե Ին",
       "menu": "Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/cafe-in.html",
       "rating": "0",
-      "hours": "15:30 - 00:00"
+      "hours": [
+        "15",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Շիրազի Հացատուն",
       "menu": "Խորոված, քյաբաբ, Հայկական",
       "url": "https://www.menu.am/restaurant/shirazi-hatsatun.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Մարիլա Սյունիքի Բարիքներ",
       "menu": "Գաստրոնոմ, Թարմ միս և մսամթերք",
       "url": "https://www.menu.am/restaurant/marila-syuniqi-bariqner.html",
       "rating": "0",
-      "hours": "09:00 - 20:00"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Կոկո Ֆիորի",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/coco-fiori.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Կայարանի Կարկանդակներ",
       "menu": "Կարկանդակ",
       "url": "https://www.menu.am/restaurant/kayarani-karkandakner.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "07",
+        "00",
+        "16",
+        "00"
+      ]
     },
     {
       "title": "Էգոիստ",
       "menu": "Լավ առաջարկ, Նվեր Քարտ",
       "url": "https://www.menu.am/restaurant/egoiste-gift-card.html",
       "rating": "0",
-      "hours": "11:00 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Խմորի Աշխարհ",
       "menu": "Քաղցրավենիք, Հացաբուլկեղեն, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/world-of-dough.html",
       "rating": "100",
-      "hours": "08:00 - 20:30"
+      "hours": [
+        "08",
+        "00",
+        "20",
+        "30"
+      ]
     },
     {
       "title": "Բեկոն Մսամթերք",
       "menu": "Թարմ միս և մսամթերք",
       "url": "https://www.menu.am/restaurant/bacon-product.html",
       "rating": "0",
-      "hours": "09:00 - 19:00"
+      "hours": [
+        "09",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Դը Քորներ",
       "menu": "Բուրգեր և Սենդվիչ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/the-corner.html",
       "rating": "0",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Աթենք",
       "menu": "Թարմ միս և մսամթերք, Կիսաֆաբրիկատներ",
       "url": "https://www.menu.am/restaurant/atenk.html",
       "rating": "60",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Աննե-Մոնա",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/anne-mona.html",
       "rating": "0",
-      "hours": "10:30 - 21:00"
+      "hours": [
+        "10",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Քափքեյք",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/cupcake.html",
       "rating": "0",
-      "hours": "09:00 - 19:00"
+      "hours": [
+        "09",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Ուրբան Շաուրմա",
       "menu": "Խորոված, քյաբաբ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/urban-shawarma.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ռենա",
       "menu": "Խորոված, քյաբաբ, Հայկական, Պիցցա",
       "url": "https://www.menu.am/restaurant/rena-restaurant.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Շաուրմա Խչոյի մոտ",
       "menu": "Խորոված, քյաբաբ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/shawarma-khchoyi-mot.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Փինկ Բերրի",
       "menu": "Քաղցրավենիք, Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/pink-berry.html",
       "rating": "0",
-      "hours": "11:00 - 22:00"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Բայազետ",
       "menu": "Թարմ միս և մսամթերք",
       "url": "https://www.menu.am/restaurant/bayazet.html",
       "rating": "0",
-      "hours": "09:00 - 18:00"
+      "hours": [
+        "09",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Պիոներ Բրազիլական Ռեստորան",
       "menu": "Բրազիլական, Լանչ",
       "url": "https://www.menu.am/restaurant/pioneer-brazilian-restaurant.html",
       "rating": "0",
-      "hours": "12:00 - 00:00"
+      "hours": [
+        "12",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Բանդիվան Կաթ",
       "menu": "Գաստրոնոմ",
       "url": "https://www.menu.am/restaurant/bandivan-kat.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Միստի Ֆյումս",
       "menu": "Նարգիլե և Սիգար",
       "url": "https://www.menu.am/restaurant/misty-fumes.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "11",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Քոֆիշոփ Քոմփնի",
       "menu": "Քաղցրավենիք, Եվրոպական, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/coffeeshop.html",
       "rating": "0",
-      "hours": "09:30 - 02:00"
+      "hours": [
+        "08",
+        "30",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Ֆրեսկո Պիցցա",
       "menu": "Իտալական, Կարկանդակ, Պիցցա",
       "url": "https://www.menu.am/restaurant/fresco-pizza.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Վահագնի Ռեստորան",
       "menu": "Խորոված, քյաբաբ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/the-vahakni-restaurant.html",
       "rating": "0",
-      "hours": "15:00 - 21:00"
+      "hours": [
+        "15",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Ավենյու Դե Ռոզ",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/avenue-de-rose.html",
       "rating": "100",
-      "hours": "09:30 - 20:00"
+      "hours": [
+        "09",
+        "30",
+        "20",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Ջիջիս պիցցա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-ggs-pizza.html",
+      "rating": "0",
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Ֆրեսկո Պիցցա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-fresco-pizza.html",
+      "rating": "0",
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ ԲելլաՎիստա Իտալիա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-bellavista-italia.html",
+      "rating": "0",
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "30"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Մամա Միա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-mama-mia.html",
+      "rating": "70",
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Շահ Պիցցա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-shah-pizza.html",
+      "rating": "0",
+      "hours": [
+        "09",
+        "30",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Պիցցա Դի Ռոմա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-pizza-di-roma.html",
+      "rating": "0",
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Կոնո Պիցցա",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-kono-pizza.html",
+      "rating": "0",
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Տիֆոզի",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-tifosi.html",
+      "rating": "0",
+      "hours": [
+        "13",
+        "00",
+        "23",
+        "30"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Կոֆիսթորի",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-coffeestory.html",
+      "rating": "0",
+      "hours": [
+        "09",
+        "00",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Գաստրոֆեստ Նոննո Ադրիանո",
+      "menu": "Գաստրոֆեստ",
+      "url": "https://www.menu.am/restaurant/gastrofest-nonno-adriano.html",
+      "rating": "100",
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Մարկո Պոլո",
       "menu": "Եվրոպական, Իտալական, Պիցցա",
       "url": "https://www.menu.am/restaurant/marco-polo.html",
       "rating": "73.4",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Դը Ալկո Շոփ",
-      "menu": "Գարեջրատուն և Փաբ, Ըմպելիքներ և Խորտիկներ, Գարեջուր, Խեցգետին",
+      "menu": "Ըմպելիքներ և Խորտիկներ, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/the-alco-shop.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "11",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Գնդիկ Բոքոնիկ Լահմաջո",
@@ -1447,224 +2491,384 @@
       "menu": "Խորոված, քյաբաբ, Հայկական",
       "url": "https://www.menu.am/restaurant/tospia-restaurant.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Բրաբիոն Այգեգործական Կենտրոն",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/brabion-garden-center.html",
       "rating": "0",
-      "hours": "10:00 - 18:00"
+      "hours": [
+        "10",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Պիցցա N1",
       "menu": "Եվրոպական, Իտալական, Պիցցա",
       "url": "https://www.menu.am/restaurant/pizza-n1.html",
       "rating": "100",
-      "hours": "11:00 - 22:45"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "45"
+      ]
     },
     {
       "title": "Պիցցա Նինո",
       "menu": "Իտալական, Լանչ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/pizza-nino.html",
       "rating": "0",
-      "hours": "12:00 - 00:00"
+      "hours": [
+        "12",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Nvirir.net",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/nvirirnet.html",
       "rating": "0",
-      "hours": "10:00 - 21:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Վինո & Վինո",
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/vino-and-vino.html",
       "rating": "0",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Մայ Լանչ",
       "menu": "Լանչ, Հայկական",
       "url": "https://www.menu.am/restaurant/my-lunch.html",
       "rating": "77.6",
-      "hours": "09:00 - 18:00"
+      "hours": [
+        "09",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Սաթենիկ Հրուշակեղեն",
       "menu": "Քաղցրավենիք, Արտադրված է Հայաստանում, Հացաբուլկեղեն",
       "url": "https://www.menu.am/restaurant/satenik-pastry.html",
       "rating": "0",
-      "hours": "07:30 - 18:30"
+      "hours": [
+        "07",
+        "30",
+        "18",
+        "30"
+      ]
     },
     {
       "title": "Կաբոն սրճարան",
       "menu": "Խորոված, քյաբաբ, Պիցցա, Վրացական",
       "url": "https://www.menu.am/restaurant/kabon-cafe.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Ռակո Կոկտեյլ",
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/rako-cocktail.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Լա Ֆլոր",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/la-flor.html",
-      "rating": "0",
-      "hours": "09:30 - 22:00"
+      "rating": "20",
+      "hours": [
+        "09",
+        "30",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "ԲիոԳեն",
       "menu": "Էկո և Օրգանական սնունդ",
       "url": "https://www.menu.am/restaurant/biogen.html",
       "rating": "100",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "ԽԱՉԱՊՈՒՐԻ+",
       "menu": "Արցախյան, Լահմաջո, Կարկանդակ, Վրացական",
       "url": "https://www.menu.am/restaurant/khachapuri.html",
       "rating": "0",
-      "hours": "09:00 - 21:00"
+      "hours": [
+        "09",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Իմպրեսսո",
       "menu": "Բուրգեր և Սենդվիչ, Սուրճ և Թեյ, Պաստա",
       "url": "https://www.menu.am/restaurant/impresso.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "08",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Յագեր",
       "menu": "Ըմպելիքներ և Խորտիկներ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/jager.html",
       "rating": "0",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Բիգ Բուք",
       "menu": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Շաուրմա, Պիցցա",
       "url": "https://www.menu.am/restaurant/big-book.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Վեգա Պիցցերիա",
       "menu": "Բուրգեր և Սենդվիչ, Լանչ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/vega-pizzeria.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Քինգ Գարդեն",
       "menu": "Ձուկ և ծովամթերք, Եվրոպական, Խորոված, քյաբաբ, Հայկական, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/king-garden.html",
       "rating": "0",
-      "hours": "11:00 - 22:00"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ածուխ Թոնրատուն",
       "menu": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Լանչ, Հայկական, Շաուրմա",
       "url": "https://www.menu.am/restaurant/atsukh-tonratun.html",
       "rating": "73.4",
-      "hours": "11:00 - 22:00"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Հին Զանգեզուր",
       "menu": "Լավ առաջարկ, Լահմաջո, Խորոված, քյաբաբ, Լանչ, Հայկական, Շաուրմա",
       "url": "https://www.menu.am/restaurant/old-zangezour.html",
       "rating": "100",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Էվն Գիֆթս",
       "menu": "Քաղցրավենիք, Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/evn-gifts.html",
       "rating": "0",
-      "hours": "10:00 - 19:00"
+      "hours": [
+        "10",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Ջասթ Կաֆե",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա",
       "url": "https://www.menu.am/restaurant/just-cafe.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Սքայ Հոթ Դոգ",
       "menu": "Հոթ Դոգ, Ամերիկյան",
       "url": "https://www.menu.am/restaurant/sky-hot-dog.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ֆաբեր Ժե սրճարան",
       "menu": "Քաղցրավենիք, Եվրոպական",
       "url": "https://www.menu.am/restaurant/faberge-cafe-boutique.html",
       "rating": "96.6",
-      "hours": "11:00 - 22:45"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "45"
+      ]
     },
     {
       "title": "Կոստիս Քեյք",
       "menu": "Քաղցրավենիք, Հունական",
       "url": "https://www.menu.am/restaurant/kostis-cake.html",
       "rating": "0",
-      "hours": "08:00 - 23:00"
+      "hours": [
+        "08",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Երևանի Խաչապուրի հացատուն",
       "menu": "Արցախյան, Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Հավի գրիլ, Նախաճաշ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/yerevani-khachapuri-hatsatun.html",
       "rating": "100",
-      "hours": "09:00 - 21:00"
+      "hours": [
+        "09",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Ֆիլոմենա",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/filomena-flowers.html",
       "rating": "0",
-      "hours": "09:30 - 00:00"
+      "hours": [
+        "09",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Բաստուրմա Խանութ Սրճարան",
       "menu": "Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/basturma.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Նյու Յորք",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Պիցցա",
       "url": "https://www.menu.am/restaurant/new-york.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Տորնադո Շաուրմա",
       "menu": "Հոթ Դոգ, Լահմաջո, Խորոված, քյաբաբ, Կարկանդակ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/tornado-shawarma.html",
       "rating": "0",
-      "hours": "09:30 - 21:00"
+      "hours": [
+        "09",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Անջելո",
       "menu": "Քաղցրավենիք, Կիսաֆաբրիկատներ, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/angelo.html",
       "rating": "0",
-      "hours": "09:00 - 23:00"
+      "hours": [
+        "09",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Քարավան",
       "menu": "Արևելյան, Խորոված, քյաբաբ, Վրացական",
       "url": "https://www.menu.am/restaurant/qaravan.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ծղոտներ",
@@ -1678,133 +2882,216 @@
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/enoteca.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Արմ Ֆուդ Բիստրո",
       "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/arm-food-bistro.html",
       "rating": "0",
-      "hours": "10:00 - 21:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Բարել Ռեստորան",
       "menu": "Գարեջրատուն և Փաբ, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/barrel-beer-house.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Պանդոկ Հին Էրիվան",
       "menu": "Խորոված, քյաբաբ, Լանչ, Հայկական",
       "url": "https://www.menu.am/restaurant/pandok-old-erivan.html",
       "rating": "0",
-      "hours": "10:00 - 02:00"
+      "hours": [
+        "10",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Կաֆե Բլան",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Սթեյք, Ֆրանսիական",
       "url": "https://www.menu.am/restaurant/cafe-blanc.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
-    },
-    {
-      "title": "Ուրարտու",
-      "menu": "Խորոված, քյաբաբ, Հայկական",
-      "url": "https://www.menu.am/restaurant/urartu.html",
-      "rating": "0",
-      "hours": "11:00 - 22:30"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Սանտա Ֆամիլիա",
       "menu": "Գաստրոնոմ, Թարմ միս և մսամթերք, Կիսաֆաբրիկատներ",
       "url": "https://www.menu.am/restaurant/santa-familia.html",
       "rating": "0",
-      "hours": "11:00 - 18:00"
+      "hours": [
+        "11",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Տուն Լահմաջո",
       "menu": "Լահմաջո, Խորոված, քյաբաբ, Հայկական, Վրացական",
       "url": "https://www.menu.am/restaurant/lahmajo-tun.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Շե Հրաչ",
       "menu": "Արևելյան",
       "url": "https://www.menu.am/restaurant/chez-hratch.html",
       "rating": "0",
-      "hours": "12:00 - 00:00"
+      "hours": [
+        "12",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Յամ-Յամ Դոնաթս",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/yum-yum-donuts-yerevan.html",
       "rating": "80",
-      "hours": "09:30 - 22:00"
+      "hours": [
+        "09",
+        "30",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "ԻՆԳՐԵԴԻԵՆՏ",
       "menu": "Քաղցրավենիք, Էկո և Օրգանական սնունդ, Սթեյք",
       "url": "https://www.menu.am/restaurant/ingredient.html",
       "rating": "100",
-      "hours": "11:00 - 22:00"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Քոզի Է Լա Վիտա",
       "menu": "Բուրգեր և Սենդվիչ, Հայկական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/cosi-e-la-vita.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Տիֆոզի",
       "menu": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Պիցցա",
       "url": "https://www.menu.am/restaurant/tifosi.html",
       "rating": "0",
-      "hours": "13:00 - 23:30"
+      "hours": [
+        "13",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Քարավանսարա",
       "menu": "Լահմաջո",
       "url": "https://www.menu.am/restaurant/qaravansara.html",
       "rating": "0",
-      "hours": "11:00 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "ՋԻՋԻՍ Պիցցա",
       "menu": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Լահմաջո, Մեքսիկական, Շաուրմա, Պիցցա",
       "url": "https://www.menu.am/restaurant/ggs-pizza.html",
       "rating": "100",
-      "hours": "11:00 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Բլեք Բուլ Սթեյք Հաուս և Բար",
       "menu": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/black-bull-steak-house-and-bar.html",
       "rating": "95",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Աթենիկա Հունական Շաուրմա",
       "menu": "Բուրգեր և Սենդվիչ, Հունական, Շաուրմա, Պիցցա",
       "url": "https://www.menu.am/restaurant/athenica-greek-shawarma.html",
       "rating": "0",
-      "hours": "10:30 - 23:30"
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Ռոսսի",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/rossi-dessert-komitas.html",
       "rating": "100",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Նոր Քեսաբ",
       "menu": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/new-kessab.html",
       "rating": "0",
-      "hours": "10:00 - 21:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Ավենյու դե Ֆլյող",
@@ -1818,308 +3105,516 @@
       "menu": "Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/haldico-coffee-or-tea.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Հակեր-Փշոր Գրիլ Հաուս",
       "menu": "Գարեջրատուն և Փաբ, Եվրոպական, Սթեյք",
       "url": "https://www.menu.am/restaurant/hacker-pschorr-grill-house.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Կրեպ",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/crepe.html",
       "rating": "80",
-      "hours": "10:00 - 21:45"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "45"
+      ]
     },
     {
       "title": "Կովկասյան Խոհանոց",
       "menu": "Խորոված, քյաբաբ, Հայկական, Վրացական",
       "url": "https://www.menu.am/restaurant/caucasian-cuisine.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Բաֆըլո Գրիլ Բար",
       "menu": "Բուրգեր և Սենդվիչ, Գարեջրատուն և Փաբ, Եվրոպական, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/buffalo-grill-bar.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Քոզի",
       "menu": "Կարկանդակ",
       "url": "https://www.menu.am/restaurant/cozy.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Բալատուն",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Հացաբուլկեղեն",
       "url": "https://www.menu.am/restaurant/balatoon-cherry-house.html",
       "rating": "10",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Լայֆ Սրճարան",
-      "menu": "Բուրգեր և Սենդվիչ, Էկո և Օրգանական սնունդ, Եվրոպական, Նախաճաշ, Պաստա, Պիցցա, Սթեյք",
+      "menu": "Էկո և Օրգանական սնունդ, Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/life-cafe.html",
       "rating": "0",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Լահմաջո",
       "menu": "Խեցգետին, Բուրգեր և Սենդվիչ, Լահմաջո, Պիցցա, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/lahmajun.html",
       "rating": "100",
-      "hours": "10:00 - 22:30"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Piva.am",
       "menu": "Խեցգետին, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/pivaam.html",
       "rating": "60",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Մերսի Գաստրո սրճարան",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/merci-gastro-cafe.html",
       "rating": "73.4",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մոնո",
       "menu": "Քաղցրավենիք, Հացաբուլկեղեն",
       "url": "https://www.menu.am/restaurant/mono.html",
       "rating": "96",
-      "hours": "10:00 - 20:30"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Ժակո Նարգիլե",
       "menu": "Նարգիլե և Սիգար",
       "url": "https://www.menu.am/restaurant/jaco-hookah.html",
       "rating": "0",
-      "hours": "11:00 - 23:30"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Աբու Հակոբ ռեստորան",
       "menu": "Արևելյան, Լահմաջո, Խորոված, քյաբաբ",
       "url": "https://www.menu.am/restaurant/abu-hagop-restaurant.html",
       "rating": "0",
-      "hours": "12:00 - 22:30"
+      "hours": [
+        "12",
+        "00",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Վանիլլա Քեյքս",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/vanilla-cakes.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "ԼաՍանի",
       "menu": "Քաղցրավենիք, Լավ առաջարկ, Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/lasany.html",
-      "rating": "66.6",
-      "hours": "09:00 - 21:00"
+      "rating": "75",
+      "hours": [
+        "09",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Սորրիզո",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/sorriso.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Ուրբան Գարեջրատուն",
       "menu": "Խեցգետին, Գարեջրատուն և Փաբ, Խորոված, քյաբաբ, Լանչ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/urban-beer-house.html",
       "rating": "80",
-      "hours": "11:00 - 02:00"
+      "hours": [
+        "11",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Մեղրատուն",
       "menu": "Քաղցրավենիք, Գաստրոնոմ, Էկո և Օրգանական սնունդ",
       "url": "https://www.menu.am/restaurant/honey-house.html",
       "rating": "0",
-      "hours": "14:00 - 22:00"
+      "hours": [
+        "14",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Միմինո",
       "menu": "Խորոված, քյաբաբ, Հայկական, Վրացական",
       "url": "https://www.menu.am/restaurant/mimino.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Մոնրո Կաֆե",
       "menu": "Եվրոպական, Իտալական, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/monroe-cafe.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Թումանյան Ֆրեշ",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/tumanyan-fresh.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Հալեպյան սենդվիչ",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/aleppo-sandwich.html",
       "rating": "0",
-      "hours": "10:30 - 23:00"
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Լոտուս",
       "menu": "Չինական, Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/lotus.html",
       "rating": "0",
-      "hours": "11:30 - 22:50"
+      "hours": [
+        "11",
+        "30",
+        "22",
+        "50"
+      ]
     },
     {
       "title": "Փափայա",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/papaya.html",
       "rating": "0",
-      "hours": "10:00 - 21:00"
-    },
-    {
-      "title": "Աչաջուր",
-      "menu": "Բուրգեր և Սենդվիչ, Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ, Նախաճաշ",
-      "url": "https://www.menu.am/restaurant/achajour.html",
-      "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Սիսի",
       "menu": "Արևելյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/sisi-cafe.html",
       "rating": "0",
-      "hours": ":00"
+      "hours": [
+        "",
+        "00",
+        null,
+        null
+      ]
     },
     {
       "title": "Վերոնա",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Իտալական, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/verona.html",
       "rating": "0",
-      "hours": "09:00 - 00:00"
+      "hours": [
+        "09",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Արևելյան Շաուրմա",
       "menu": "Լահմաջո, Խորոված, քյաբաբ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/eastern-shaurma.html",
       "rating": "100",
-      "hours": "10:00 - 02:00"
+      "hours": [
+        "10",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Լակի Դեսերտ",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/laki-dessert-art-studio.html",
       "rating": "0",
-      "hours": "09:00 - 20:00"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Լուի Շարդեն",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Եվրոպական, Հացաբուլկեղեն, Պաստա, Ֆրանսիական",
       "url": "https://www.menu.am/restaurant/louis-charden.html",
       "rating": "0",
-      "hours": "08:30 - 23:30"
+      "hours": [
+        "08",
+        "30",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Ֆիոնա Ֆլորա",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/fiona-flora.html",
       "rating": "0",
-      "hours": "07:30 - 00:00"
+      "hours": [
+        "07",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Այնթապ Հրուշակեղեն",
       "menu": "Քաղցրավենիք, Արևելյան",
       "url": "https://www.menu.am/restaurant/anteb-sweet.html",
       "rating": "10",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ջազզվե Թու Գոու Կոֆի",
       "menu": "Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/jazzve-to-go-coffee.html",
       "rating": "0",
-      "hours": "10:00 - 23:30"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Սպագո Գրիլ",
       "menu": "Ասիական, Մոնղոլական",
       "url": "https://www.menu.am/restaurant/spago-grill-yerevan-mall.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Մոնտե Քրիստո",
       "menu": "Խորոված, քյաբաբ, Հայկական",
       "url": "https://www.menu.am/restaurant/monte-cristo.html",
       "rating": "0",
-      "hours": "10:30 - 00:00"
+      "hours": [
+        "10",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Արտբրիջ",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական, Նախաճաշ, Պաստա",
       "url": "https://www.menu.am/restaurant/artbridge.html",
       "rating": "100",
-      "hours": "08:30 - 00:00"
+      "hours": [
+        "08",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Աբխազական գրիլ",
       "menu": "Խորոված, քյաբաբ, Հավի գրիլ, Հայկական, Վրացական",
       "url": "https://www.menu.am/restaurant/abkhazian-grill.html",
       "rating": "70",
-      "hours": "11:00 - 22:50"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "50"
+      ]
     },
     {
       "title": "Արայի Ամրոց",
       "menu": "Խորոված, քյաբաբ, Վրացական",
       "url": "https://www.menu.am/restaurant/arayi-amroc.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Սմուզի",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/smoothie.html",
       "rating": "67.6",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Ժենգյալով հաց",
       "menu": "Արցախյան, Ժենգյալով Հաց, Հայկական",
       "url": "https://www.menu.am/restaurant/jengyalov-hats.html",
       "rating": "100",
-      "hours": "10:30 - 21:30"
+      "hours": [
+        "10",
+        "30",
+        "21",
+        "30"
+      ]
     },
     {
       "title": "Ֆլորեքս",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/florex.html",
       "rating": "0",
-      "hours": "09:30 - 19:30"
+      "hours": [
+        "09",
+        "30",
+        "19",
+        "30"
+      ]
     },
     {
       "title": "Փոքր Փարիզ",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Եվրոպական, Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ, Նախաճաշ, Ֆրանսիական",
       "url": "https://www.menu.am/restaurant/le-petit-paris.html",
       "rating": "10",
-      "hours": "09:30 - 23:00"
+      "hours": [
+        "09",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Բլեք Շիշա",
       "menu": "Նարգիլե և Սիգար",
       "url": "https://www.menu.am/restaurant/black-shisha.html",
       "rating": "0",
-      "hours": "13:00 - 23:00"
+      "hours": [
+        "13",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Ռիլ Յամմի Բեյգլզ",
@@ -2133,63 +3628,108 @@
       "menu": "Լանչ",
       "url": "https://www.menu.am/restaurant/blizzard-lunch.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "08",
+        "30",
+        "16",
+        "00"
+      ]
     },
     {
       "title": "Իլ Սոլո Ջելատո",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/il-solo-gelato.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Բագետ էնդ Կո",
       "menu": "Քաղցրավենիք, Խորոված, քյաբաբ, Հացաբուլկեղեն, Սուրճ և Թեյ, Նախաճաշ",
       "url": "https://www.menu.am/restaurant/baguette-and-co.html",
       "rating": "73.4",
-      "hours": "08:00 - 23:30"
+      "hours": [
+        "08",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Ջազզվե",
       "menu": "Բուրգեր և Սենդվիչ, Եվրոպական",
       "url": "https://www.menu.am/restaurant/jazzve.html",
       "rating": "0",
-      "hours": "10:00 - 23:30"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Մեր Գյուղը",
       "menu": "Հայկական",
       "url": "https://www.menu.am/restaurant/our-village.html",
       "rating": "0",
-      "hours": "11:00 - 23:30"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Սուլիկո",
       "menu": "Լավ առաջարկ, Խորոված, քյաբաբ, Վրացական",
       "url": "https://www.menu.am/restaurant/suliko.html",
       "rating": "76.6",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Սակուրադա",
       "menu": "Ասիական, Սուշի, Ճապոնական",
       "url": "https://www.menu.am/restaurant/sakurada.html",
       "rating": "100",
-      "hours": "12:00 - 22:00"
+      "hours": [
+        "12",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Էդեն",
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ, Պաստա",
       "url": "https://www.menu.am/restaurant/eden.html",
       "rating": "0",
-      "hours": "13:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մանա Բիստրո",
       "menu": "Պիցցա",
       "url": "https://www.menu.am/restaurant/mana-bistro.html",
       "rating": "0",
-      "hours": "11:00 - 20:00"
+      "hours": [
+        "11",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Էնի Ռոուզ",
@@ -2200,52 +3740,87 @@
     },
     {
       "title": "Բիրբուրգ Գարեջրատուն",
-      "menu": "Խեցգետին, Գարեջրատուն և Փաբ, Ըմպելիքներ և Խորտիկներ, Գարեջուր, Խեցգետին",
+      "menu": "Խեցգետին, Ըմպելիքներ և Խորտիկներ, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/beerburg-beer-house.html",
       "rating": "55",
-      "hours": "13:00 - 23:00"
+      "hours": [
+        "13",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Քուին Բուրգեր",
       "menu": "Ամերիկյան, Բուրգեր և Սենդվիչ",
       "url": "https://www.menu.am/restaurant/queen-burger.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Սքուեր Ուան",
       "menu": "Անգլիական, Ամերիկյան, Բուրգեր և Սենդվիչ, Նախաճաշ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/square-one.html",
       "rating": "100",
-      "hours": "10:00 - 23:30"
+      "hours": [
+        "09",
+        "30",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Դան Դեսերտ",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/dan-dessert.html",
       "rating": "87.2",
-      "hours": "10:30 - 20:30"
+      "hours": [
+        "09",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "ՋուրՋուր",
       "menu": "Ըմպելիքներ և Խորտիկներ",
       "url": "https://www.menu.am/restaurant/jurjur.html",
       "rating": "100",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "17",
+        "30"
+      ]
     },
     {
       "title": "Վասաբի Ֆաստ Ֆուդ",
       "menu": "Ասիական, Պաստա, Ճապոնական",
       "url": "https://www.menu.am/restaurant/wasabi-noodles-rice-and-more.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ֆրեշ Հաուս",
       "menu": "Ֆրեշ, Պաղպաղակ, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/fresh-house-opera.html",
       "rating": "100",
-      "hours": "10:30 - 23:00"
+      "hours": [
+        "10",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Պասիֆլորա",
@@ -2258,57 +3833,97 @@
       "title": "Anahit.am",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/anahitam.html",
-      "rating": "80",
-      "hours": "09:30 - 22:30"
+      "rating": "65",
+      "hours": [
+        "09",
+        "30",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "ԼեվՐիմ",
       "menu": "Հացաբուլկեղեն",
       "url": "https://www.menu.am/restaurant/levrim.html",
       "rating": "0",
-      "hours": "09:00 - 20:00"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Լահմաջո Խաչապուրի",
       "menu": "Բուրգեր և Սենդվիչ, Լահմաջո, Խորոված, քյաբաբ, Կարկանդակ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/lahmajo-khachapuri.html",
       "rating": "0",
-      "hours": "09:00 - 21:00"
+      "hours": [
+        "09",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Մայ Փարթի",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/my-party.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Բրիոշ",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Եվրոպական, Հացաբուլկեղեն, Նախաճաշ, Ֆրանսիական",
       "url": "https://www.menu.am/restaurant/brioche.html",
       "rating": "100",
-      "hours": "09:00 - 22:00"
+      "hours": [
+        "08",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Երևան Թայմ",
       "menu": "Խորոված, քյաբաբ, Պիցցա",
       "url": "https://www.menu.am/restaurant/yerevan-time.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Արաքս Քեյք",
       "menu": "Քաղցրավենիք, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/araks-cake.html",
       "rating": "100",
-      "hours": "10:00 - 21:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Սալատ Հաուս",
       "menu": "Կիսաֆաբրիկատներ, Լանչ",
       "url": "https://www.menu.am/restaurant/salad-house.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Լիփ Լիք Քեյքս",
@@ -2322,343 +3937,590 @@
       "menu": "Խորոված, քյաբաբ, Հայկական",
       "url": "https://www.menu.am/restaurant/old-jrvezh.html",
       "rating": "0",
-      "hours": "10:00 - 23:30"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "30"
+      ]
     },
     {
       "title": "Ռոլլեր",
       "menu": "Արցախյան, Լավ առաջարկ, Արևելյան, Լահմաջո, Շաուրմա",
       "url": "https://www.menu.am/restaurant/roller.html",
       "rating": "50",
-      "hours": "10:00 - 22:30"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "30"
+      ]
     },
     {
       "title": "Պիրոժկոֆֆ",
       "menu": "Հացաբուլկեղեն, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/pirojkoff.html",
       "rating": "100",
-      "hours": "09:00 - 19:00"
+      "hours": [
+        "09",
+        "00",
+        "19",
+        "00"
+      ]
     },
     {
       "title": "Արտ Լանչ",
       "menu": "Խորոված, քյաբաբ, Լանչ, Հայկական, Շաուրմա",
       "url": "https://www.menu.am/restaurant/art-lunch.html",
-      "rating": "55",
-      "hours": ""
+      "rating": "70",
+      "hours": [
+        "11",
+        "00",
+        "17",
+        "00"
+      ]
     },
     {
       "title": "Կարմիր Գլխարկ",
       "menu": "Քաղցրավենիք, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/karmir-glkhark.html",
       "rating": "90",
-      "hours": ""
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "BubbleTea",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/bubbletea.html",
       "rating": "0",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Լոռի հացատուն",
       "menu": "Խեցգետին, Գարեջրատուն և Փաբ, Խորոված, քյաբաբ, Հավի գրիլ, Հայկական, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/lori-hacatun.html",
       "rating": "100",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Սեգաֆրեդո",
       "menu": "Եվրոպական, Իտալական, Սուրճ և Թեյ, Նախաճաշ",
       "url": "https://www.menu.am/restaurant/segafredo-zanetti.html",
       "rating": "0",
-      "hours": "10:00 - 00:30"
+      "hours": [
+        "08",
+        "30",
+        "00",
+        "30"
+      ]
     },
     {
       "title": "Ռելաքս Հոլ",
       "menu": "Եվրոպական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/relax-hall-hookah-place.html",
       "rating": "0",
-      "hours": "13:00 - 00:00"
+      "hours": [
+        "12",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մեծ Հայք",
       "menu": "Խորոված, քյաբաբ, Հավի գրիլ, Հայկական, Պիցցա",
       "url": "https://www.menu.am/restaurant/mets-hayk.html",
       "rating": "0",
-      "hours": "09:30 - 01:00"
+      "hours": [
+        "09",
+        "30",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Փարթի Թայմ",
       "menu": "Քաղցրավենիք, Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/party-time.html",
       "rating": "0",
-      "hours": "10:00 - 20:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Քրիստի Ծաղկի Սրահ",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/qristi-flowers-salon.html",
       "rating": "0",
-      "hours": "08:00 - 00:00"
+      "hours": [
+        "08",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Չուրոս",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/churros.html",
       "rating": "0",
-      "hours": "11:00 - 22:00"
+      "hours": [
+        "11",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "ՎՍ",
       "menu": "Գաստրոնոմ, Լահմաջո, Կիսաֆաբրիկատներ",
       "url": "https://www.menu.am/restaurant/vs.html",
       "rating": "0",
-      "hours": "12:00 - 17:00"
+      "hours": [
+        "10",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Վերնյանո",
       "menu": "Բուրգեր և Սենդվիչ, Իտալական, Սուրճ և Թեյ, Պաստա, Պիցցա",
       "url": "https://www.menu.am/restaurant/vergnano.html",
       "rating": "0",
-      "hours": "08:30 - 00:00"
+      "hours": [
+        "08",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Տիգրան Մեծի Պանդոկ",
       "menu": "Խորոված, քյաբաբ, Հայկական, Պաստա",
       "url": "https://www.menu.am/restaurant/tavern-of-tigran-mets.html",
       "rating": "0",
-      "hours": "07:00 - 23:00"
+      "hours": [
+        "07",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Քոֆի Փոյինթ",
       "menu": "Քաղցրավենիք, Բուրգեր և Սենդվիչ, Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/coffee-point.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "08",
+        "30",
+        "21",
+        "30"
+      ]
     },
     {
       "title": "Շահ Պիցցա",
       "menu": "Իրանական/Պարսկական",
       "url": "https://www.menu.am/restaurant/shah-pizza.html",
       "rating": "0",
-      "hours": "09:30 - 00:00"
+      "hours": [
+        "09",
+        "30",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Գրին Բին",
       "menu": "Եվրոպական",
       "url": "https://www.menu.am/restaurant/the-green-bean.html",
       "rating": "100",
-      "hours": "08:30 - 23:00"
+      "hours": [
+        "08",
+        "30",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Պռոշյան Լաունջ Ռեստորան",
       "menu": "Լավ առաջարկ, Հայկական",
       "url": "https://www.menu.am/restaurant/proshyan-lounge.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Տնական Գյուղմթերք",
       "menu": "Խեցգետին, Գաստրոնոմ, Էկո և Օրգանական սնունդ, Թարմ միս և մսամթերք, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/tnakan-gyughmterq.html",
       "rating": "0",
-      "hours": "08:00 - 21:00"
+      "hours": [
+        "08",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Գրին Վուդ",
       "menu": "Խեցգետին, Գարեջրատուն և Փաբ",
       "url": "https://www.menu.am/restaurant/green-wood.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Մերի Բեյքերի",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/mary-bakery.html",
       "rating": "0",
-      "hours": "11:00 - 18:00"
+      "hours": [
+        "09",
+        "00",
+        "20",
+        "00"
+      ]
     },
     {
       "title": "Պանդոկ N1",
       "menu": "Հայկական",
       "url": "https://www.menu.am/restaurant/pandok-n1.html",
       "rating": "0",
-      "hours": "09:30 - 21:00"
+      "hours": [
+        "09",
+        "30",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Պեչկա Սլոյկա",
       "menu": "Կիսաֆաբրիկատներ, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/pechka-sloyka.html",
       "rating": "0",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "18",
+        "00"
+      ]
     },
     {
       "title": "Բրաբիոն",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/brabion.html",
       "rating": "0",
-      "hours": "08:00 - 22:00"
+      "hours": [
+        "08",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Էլ Գարդեն",
       "menu": "Հայկական",
       "url": "https://www.menu.am/restaurant/el-garden.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Մոլինարի",
       "menu": "Իտալական, Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/molinari-caffe.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Լա Բուլանժերի դե Փարիզ",
       "menu": "Սուրճ և Թեյ, Ֆրանսիական",
       "url": "https://www.menu.am/restaurant/la-boulangerie-de-paris.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Դոլչե Մոնդո",
       "menu": "Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/dolcemondo.html",
       "rating": "0",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Դոլչետտո",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/dolchetto.html",
       "rating": "10",
-      "hours": "08:00 - 00:00"
+      "hours": [
+        "08",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Սուշի Մարկետ Վասաբի",
       "menu": "Կիսաֆաբրիկատներ, Սուշի",
       "url": "https://www.menu.am/restaurant/sushi-market-wasabi.html",
       "rating": "0",
-      "hours": "11:00 - 03:00"
+      "hours": [
+        "11",
+        "00",
+        "03",
+        "00"
+      ]
     },
     {
       "title": "Երազ Լաունջ",
       "menu": "Եվրոպական",
       "url": "https://www.menu.am/restaurant/yeraz-lounge-bar-restaurant.html",
       "rating": "0",
-      "hours": "11:00 - 23:00"
+      "hours": [
+        "11",
+        "00",
+        "23",
+        "00"
+      ]
+    },
+    {
+      "title": "Էլեոնորա",
+      "menu": "Ծաղիկներ և Փուչիկներ",
+      "url": "https://www.menu.am/restaurant/eleonora-flower.html",
+      "rating": "0",
+      "hours": "24"
     },
     {
       "title": "Քինգ Շաուրմա",
       "menu": "Հոթ Դոգ, Շաուրմա",
       "url": "https://www.menu.am/restaurant/king-shaurma.html",
-      "rating": "80",
-      "hours": "10:00 - 22:00"
+      "rating": "86.6",
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Ֆլամբէ",
       "menu": "Քաղցրավենիք",
       "url": "https://www.menu.am/restaurant/flambe.html",
       "rating": "80",
-      "hours": "10:00 - 21:00"
+      "hours": [
+        "10",
+        "00",
+        "21",
+        "00"
+      ]
     },
     {
       "title": "Բիր Գարդեն",
       "menu": "Խեցգետին, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/beer-garden.html",
       "rating": "0",
-      "hours": "11:00 - 01:00"
+      "hours": [
+        "11",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Բուրգեր Շոփ",
       "menu": "Հոթ Դոգ, Բուրգեր և Սենդվիչ, Կարկանդակ",
       "url": "https://www.menu.am/restaurant/burger-shop.html",
       "rating": "40",
-      "hours": ""
+      "hours": [
+        "09",
+        "00",
+        "18",
+        "30"
+      ]
     },
     {
       "title": "HB Գարեջրատուն",
       "menu": "Խեցգետին, Գարեջրատուն և Փաբ, Գարեջուր, Խեցգետին",
       "url": "https://www.menu.am/restaurant/hb-beer-house.html",
       "rating": "100",
-      "hours": "10:00 - 23:00"
+      "hours": [
+        "10",
+        "00",
+        "23",
+        "00"
+      ]
     },
     {
       "title": "Դը Վայն Հաուս",
       "menu": "Ձուկ և ծովամթերք, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/the-wine-house.html",
       "rating": "70",
-      "hours": "10:00 - 01:00"
+      "hours": [
+        "10",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Բելլաջիո",
       "menu": "Ձուկ և ծովամթերք, Խորոված, քյաբաբ, Հայկական, Պաստա",
       "url": "https://www.menu.am/restaurant/bellagio.html",
       "rating": "0",
-      "hours": "10:00 - 00:00"
+      "hours": [
+        "10",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Վանիլա Քոֆի",
       "menu": "Եվրոպական",
       "url": "https://www.menu.am/restaurant/vanilla-coffee.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Կանտատա",
       "menu": "Սուրճ և Թեյ",
       "url": "https://www.menu.am/restaurant/cantata.html",
       "rating": "0",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Գրեմմի Սրճարան",
       "menu": "Բուրգեր և Սենդվիչ, Խորոված, քյաբաբ, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/grammy-cafe.html",
       "rating": "0",
-      "hours": "11:00 - 00:00"
+      "hours": [
+        "11",
+        "00",
+        "00",
+        "00"
+      ]
     },
     {
       "title": "Հեմինգուեյս",
-      "menu": "Գարեջրատուն և Փաբ, Ըմպելիքներ և Խորտիկներ",
+      "menu": "Ըմպելիքներ և Խորտիկներ, Գարեջրատուն և Փաբ",
       "url": "https://www.menu.am/restaurant/hemingways-pub.html",
       "rating": "0",
-      "hours": "10:00 - 04:00"
+      "hours": [
+        "10",
+        "00",
+        "04",
+        "00"
+      ]
     },
     {
       "title": "Կարապի լիճ",
       "menu": "Գարեջրատուն և Փաբ, Եվրոպական, Պաստա, Պիցցա, Սթեյք",
       "url": "https://www.menu.am/restaurant/swan-lake.html",
       "rating": "0",
-      "hours": "11:00 - 01:00"
+      "hours": [
+        "11",
+        "00",
+        "01",
+        "00"
+      ]
     },
     {
       "title": "Մոն Կաֆե",
       "menu": "Լավ առաջարկ, Բուրգեր և Սենդվիչ, Եվրոպական, Պաստա, Սթեյք",
       "url": "https://www.menu.am/restaurant/mon-cafe.html",
       "rating": "0",
-      "hours": "10:00 - 02:00"
+      "hours": [
+        "10",
+        "00",
+        "02",
+        "00"
+      ]
     },
     {
       "title": "Ջասմինա Ծաղիկներ",
       "menu": "Ծաղիկներ և Փուչիկներ",
       "url": "https://www.menu.am/restaurant/jasmina-flowers.html",
       "rating": "100",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Կառնուտ Շաուրմա",
       "menu": "Շաուրմա",
       "url": "https://www.menu.am/restaurant/karnut-shaurma.html",
       "rating": "88.6",
-      "hours": ""
+      "hours": "24"
     },
     {
       "title": "Բաֆըլս",
       "menu": "Քաղցրավենիք, Ֆրեշ, Պաղպաղակ",
       "url": "https://www.menu.am/restaurant/baffles.html",
       "rating": "100",
-      "hours": "10:00 - 22:00"
+      "hours": [
+        "10",
+        "00",
+        "22",
+        "00"
+      ]
     },
     {
       "title": "Թոնրատուն Կարս",
@@ -2672,35 +4534,60 @@
       "menu": "",
       "url": "https://www.menu.amundefined",
       "rating": "",
-      "hours": ""
+      "hours": [
+        "",
+        null,
+        null,
+        null
+      ]
     },
     {
       "title": "",
       "menu": "",
       "url": "https://www.menu.amundefined",
       "rating": "",
-      "hours": ""
+      "hours": [
+        "",
+        null,
+        null,
+        null
+      ]
     },
     {
       "title": "",
       "menu": "",
       "url": "https://www.menu.amundefined",
       "rating": "",
-      "hours": ""
+      "hours": [
+        "",
+        null,
+        null,
+        null
+      ]
     },
     {
       "title": "",
       "menu": "",
       "url": "https://www.menu.amundefined",
       "rating": "",
-      "hours": ""
+      "hours": [
+        "",
+        null,
+        null,
+        null
+      ]
     },
     {
       "title": "",
       "menu": "",
       "url": "https://www.menu.amundefined",
       "rating": "",
-      "hours": ""
+      "hours": [
+        "",
+        null,
+        null,
+        null
+      ]
     }
   ]
 }
